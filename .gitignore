@@ -350,4 +350,5 @@ MigrationBackup/
 .ionide/
 
 # dataset folder
-/archive
+/eye-data
+/yawn-data
