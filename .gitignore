@@ -353,3 +353,4 @@ MigrationBackup/
 /eye-data
 /yawn-data
 /*.h5
+/tester.py
