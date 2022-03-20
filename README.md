@@ -13,11 +13,9 @@ The data you will get from this source will have all the four folders (Closed, O
 
 **Root Dir**
 > eye-data
->> Closed
- Open
+>> Closed, Open
 
 > yawn-data
->> no_yawn
- yawn
+>> no_yawn, yawn
 
 > base-model.py
