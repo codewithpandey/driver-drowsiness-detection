@@ -12,9 +12,9 @@ https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new
 The data you will get from this source will have all the four folders (Closed, Open, no_yawn, and yawn) will be in the same directory. For using this program, you have to bring out those folders out side and make a structure like this:
 
 **Root Dir**
-  |- eye-data
-  |    |- Closed
-  |    |- Open
-  |- yawn-data
-  |    |- no_yawn
-  |    |- yawn
+  |- eye-data  
+  |    |- Closed  
+  |    |- Open  
+  |- yawn-data  
+  |    |- no_yawn  
+  |    |- yawn  
