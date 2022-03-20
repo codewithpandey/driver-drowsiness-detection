@@ -354,3 +354,5 @@ MigrationBackup/
 /yawn-data
 /*.h5
 /tester.py
+/archive
+/frames
