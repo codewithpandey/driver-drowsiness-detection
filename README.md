@@ -18,3 +18,7 @@ The data you will get from this source will have all the four folders (Closed, O
   |- yawn-data  
   |    |- no_yawn  
   |    |- yawn  
+
+After doing so, run the data-separator.py file to split the data in training, testing, and validation sets.
+
+Finally, run the base-model.py to train the models.
