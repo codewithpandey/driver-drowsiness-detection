@@ -24,4 +24,4 @@ pipreqs path/to/project
 Or you can also install them manually by using: pip install package_name==version
 
 ### How to use
-You do not need the dataset for just useing the program, all you have do is install all packages and then run main.py.
+You do not need the dataset for just using the program, all you have do is install all the required packages and then run - main.py.
