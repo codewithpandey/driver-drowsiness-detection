@@ -43,4 +43,4 @@ Drowsy                                                                          
 
 I leave the testing for yawning to you, because I look funny while yawning 😂.
 
-## Our Hearts and Soul to the Cause ❤
+## Our Hearts and Souls to the Cause ❤
