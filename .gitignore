@@ -352,7 +352,7 @@ MigrationBackup/
 # dataset folder
 /eye-data
 /yawn-data
-/*.h5
+# /*.h5
 /tester.py
 /archive
 /frames
