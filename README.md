@@ -18,10 +18,10 @@ Finally, run the base-model.py to train the models.
 ### Packages Required
 All the required packages (with version) are listed in requirements.txt. To install all of them at once run the following commands on your cmd (preferably as administrator):
 
-<code>
-C:\Users\YOUR_USERNAME>pip install pipreqs <br /> 
+<pre>
+C:\Users\YOUR_USERNAME>pip install pipreqs
 C:\Users\YOUR_USERNAME>pipreqs path/to/project
-</code>
+</pre>
 
 Or you can also install them manually by using: pip install package_name==version
 
