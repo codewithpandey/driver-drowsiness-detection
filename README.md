@@ -23,5 +23,13 @@ pipreqs path/to/project
 
 Or you can also install them manually by using: pip install package_name==version
 
-### How to use
+### How to use?
 You do not need the dataset for just using the program, all you have do is install all the required packages and then run - main.py.
+But if you want to go through the whole experience or may be play around with the code, follow this:
+- First follow the steps under _Data Source_.
+- Then follow the steps under _Packages Required_.
+- Then open up your Jupyter Notebook or Google Colaboratory(packages are already installed in Colab) and start running the base-model.ipynb
+- Finally run main.py to use the application.
+
+### How the application works?
+After you click the Start button on the app, the application takes your picture every 100 miliseconds. Then using computer vision, the pictures of your eyes will be cropped out from your face. Then the program uses the image of the eye to see if it's closed or open and the image of the face to see if you are yawning or not. If any of those conditions match (closed eyes or yawning), the app shows **"Drowsy"** at the bottom of the window, and plays a sound to wake you up.
