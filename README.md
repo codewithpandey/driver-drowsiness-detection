@@ -37,6 +37,6 @@ But if you want to go through the whole experience or may be play around with th
 After you click the Start button on the app, the application takes your picture every 100 miliseconds. Then using computer vision, the pictures of your eyes will be cropped out from your face. Then the program uses the image of the eye to see if it's closed or open and the image of the face to see if you are yawning or not. If any of those conditions match (closed eyes or yawning), the app shows **"Drowsy"** at the bottom of the window, and plays a sound to wake you up.
 
 ## A small preview
-Solarized dark                                                                                                                                           |  Solarized Ocean
-:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
-![Attentive](https://github.com/codewithpandey/driver-drowsiness-detection/blob/9b84f3517c865d7dd3d971aa4983aacfe898da64/images/attentive.PNG?raw=true)  |  ![Drowsy](https://github.com/codewithpandey/driver-drowsiness-detection/blob/9b84f3517c865d7dd3d971aa4983aacfe898da64/images/drowsy.PNG?raw=true)
+Drowsy                                                                                                                                           |  Attentive
+:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+![Drowsy](https://github.com/codewithpandey/driver-drowsiness-detection/blob/9b84f3517c865d7dd3d971aa4983aacfe898da64/images/drowsy.PNG?raw=true)  |  ![Attentive](https://github.com/codewithpandey/driver-drowsiness-detection/blob/9b84f3517c865d7dd3d971aa4983aacfe898da64/images/attentive.PNG?raw=true)
