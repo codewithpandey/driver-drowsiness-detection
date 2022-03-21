@@ -21,7 +21,7 @@ All the required packages (with version) are listed in requirements.txt. To inst
 <p style="background:black">
 <code style="background:black;color:white">
 C:\Users\YOUR_USERNAME>pip install pipreqs  
-C:\Users\YOUR_USERNAME>pipreqs path/to/project
+  C:\Users\YOUR_USERNAME>pipreqs path/to/project
 </code>
 </p>
 
