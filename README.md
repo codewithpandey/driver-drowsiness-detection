@@ -34,7 +34,7 @@ But if you want to go through the whole experience or may be play around with th
 - Finally run main.py to use the application.
 
 ## How the application works?
-After you click the Start button on the app, the application takes your picture every 100 miliseconds. Then using computer vision, the pictures of your eyes will be cropped out from your face. Then the program uses the image of the eye to see if it's closed or open and the image of the face to see if you are yawning or not. If any of those conditions match (closed eyes or yawning), the app shows **"Drowsy"** at the bottom of the window, and plays a sound to wake you up.
+After you click the Start button on the app, the application takes your picture every 100 miliseconds. Then using computer vision, the pictures of your eyes will be cropped out from your face. Then the program uses the image of the eye to see if it's closed or open and the image of the face to see if you are yawning or not. If any of those conditions match (closed eyes or yawning), the app shows **"Drowsy"** at the bottom of the window, and plays a sound to wake you up. Make sure to put your volume to low because the sound that the software will play is a train's horn.
 
 ## A small preview
 Drowsy                                                                                                                                           |  Attentive
